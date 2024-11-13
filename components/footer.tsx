@@ -51,13 +51,15 @@ export default function Footer() {
         </ul>
 
         <div className="social flex justify-center gap-6 mt-6 md:mt-0 text-2xl lg:text-3xl">
-          <a href="#" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out">
-            <FaFacebook />
+          <a href="/" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out">
+            <FaFacebook
+                
+            />
           </a>
-          <a href="#" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out">
+          <a href="/" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out">
             <FaInstagram />
           </a>
-          <a href="#" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out">
+          <a href="/" className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out">
             <FaSquareXTwitter />
           </a>
         </div>
