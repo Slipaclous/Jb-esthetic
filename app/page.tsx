@@ -22,7 +22,7 @@ export default function Home() {
               Un univers bien-être à portée de main
             </h4>
             <p className="text-white/80 mt-4 2xl:w-[30%] text-sm sm:text-base md:text-lg max-w-full sm:text-3xl sm:max-w-[70%] md:max-w-[50%]">
-              Bienvenue dans mon institut de beauté, je m&apos;appelle Jade Bosmans, je suis de la région d'Enghien et je suis là pour m&apos;occuper de votre bien-être.
+              Bienvenue dans mon institut de beauté, je m&apos;appelle Jade Bosmans, je suis de la région d&apos;Enghien et je suis là pour m&apos;occuper de votre bien-être.
             </p>
             <div className="py-4 sm:py-5 flex lg:flex-col sm:flex-row gap-2">
               <Button className="bg-black text-white dark:bg-white dark:text-black rounded-none hover:bg-white hover:text-black dark:hover:bg-black dark:hover:text-white">
