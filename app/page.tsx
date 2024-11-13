@@ -33,7 +33,7 @@ export default function Home() {
               </Button>
             </div>
           </CardHeader>
-          <Image removeWrapper alt="Card background" className="absolute rounded-none inset-0 w-full h-full object-cover z-0" src="https://nextui.org/images/card-example-6.jpeg" />
+          <Image removeWrapper alt="Card background" className="absolute rounded-none inset-0 w-full h-full object-cover z-0" src="https://nextui.org/images/card-example-3.jpeg" />
         </Card>
       </div>
 
@@ -57,7 +57,7 @@ export default function Home() {
             </li>
           </ul>
           <div className="mt-8 mb-12 flex items-center">
-  <Button className="font-light bg-white text-black dark:bg-black dark:text-white rounded-none hover:bg-black hover:text- dark:hover:text-black dark:hover:bg-white text-lg mr-4 border border-black dark:border-white">
+  <Button className="font-light bg-white text-black dark:bg-black dark:text-white rounded-none hover:bg-black hover:text-white dark:hover:text-black dark:hover:bg-white text-lg mr-4 border border-black dark:border-white">
     Rendez-vous
   </Button>
   <Button className="flex items-center bg-transparent text-lg group "> {/* Adjusted margin here */}
