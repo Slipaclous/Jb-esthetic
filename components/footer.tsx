@@ -18,7 +18,7 @@ export default function Footer() {
         <ul className="flex flex-wrap justify-center gap-4 md:gap-6 uppercase text-sm sm:text-base md:text-lg lg:text-xl">
           <li>
             <a 
-              href="#" 
+              href="https://jb-esthetic.vercel.app" 
               className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
             >
               À propos
@@ -26,7 +26,7 @@ export default function Footer() {
           </li>
           <li>
             <a 
-              href="#" 
+              href="https://jb-esthetic.vercel.app" 
               className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
             >
               Services
@@ -34,7 +34,7 @@ export default function Footer() {
           </li>
           <li>
             <a 
-              href="#" 
+              href="https://jb-esthetic.vercel.app" 
               className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
             >
               Rendez-vous
@@ -42,7 +42,7 @@ export default function Footer() {
           </li>
           <li>
             <a 
-              href="#" 
+              href="https://jb-esthetic.vercel.app" 
               className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
             >
               Contact
@@ -70,7 +70,7 @@ export default function Footer() {
           </li>
           <li>
             <a 
-              href="#" 
+              href="https://jb-esthetic.vercel.app" 
               className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
             >
               Privacy Policy
@@ -78,7 +78,7 @@ export default function Footer() {
           </li>
           <li>
             <a 
-              href="#" 
+              href="https://jb-esthetic.vercel.app" 
               className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
             >
               Terms of Service
@@ -86,7 +86,7 @@ export default function Footer() {
           </li>
           <li>
             <a 
-              href="#" 
+              href="https://jb-esthetic.vercel.app" 
               className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
             >
               Cookies Settings
