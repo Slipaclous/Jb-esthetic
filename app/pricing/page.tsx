@@ -1,9 +1,16 @@
-import { title } from "@/components/primitives";
+"use client";
 
-export default function PricingPage() {
+import { useState } from "react";
+
+export default function BookingForm() {
+
+
+
   return (
     <div>
-      <h1 className={title()}>Pricing</h1>
+      <h1>Book an Appointment</h1>
+
+   
     </div>
   );
 }

@@ -45,6 +45,14 @@ export default function Footer() {
               href="https://jb-esthetic.vercel.app" 
               className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
             >
+              Gallerie
+            </a>
+          </li>
+          <li>
+            <a 
+              href="https://jb-esthetic.vercel.app" 
+              className="hover:text-blue-600 dark:hover:text-blue-400 transition-colors duration-200 ease-in-out"
+            >
               Contact
             </a>
           </li>
